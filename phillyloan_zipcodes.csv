@@ -1,0 +1,49 @@
+geo_level,geo_name,state_name,approval_fiscal_year,loan_type,pct_black_alone,number_of_loans,loan_amount,quartiles_number_of_loans,quartiles_loan_amount,percentile_number_of_loans,percentile_loan_amount
+zip,19149,,2023,All,22.0,2,40000,26-50% of geographies,Bottom 25% of geographies,28,6
+zip,19150,,2023,All,91.8,3,45000,26-50% of geographies,Bottom 25% of geographies,45,6
+zip,19126,,2023,All,83.5,2,60000,26-50% of geographies,Bottom 25% of geographies,28,8
+zip,19135,,2023,All,18.2,3,55000,26-50% of geographies,Bottom 25% of geographies,45,8
+zip,19113,,2023,All,,1,100000,Bottom 25% of geographies,Bottom 25% of geographies,0,11
+zip,19151,,2023,All,87.6,4,102000,51-75% of geographies,Bottom 25% of geographies,55,12
+zip,19115,,2023,All,9.4,3,130000,26-50% of geographies,Bottom 25% of geographies,45,14
+zip,19118,,2023,All,18.4,2,142500,26-50% of geographies,Bottom 25% of geographies,28,15
+zip,19154,,2023,All,10.3,2,180000,26-50% of geographies,Bottom 25% of geographies,28,18
+zip,19114,,2023,All,11.1,2,175000,26-50% of geographies,Bottom 25% of geographies,28,18
+zip,19128,,2023,All,12.6,2,175000,26-50% of geographies,Bottom 25% of geographies,28,18
+zip,19129,,2023,All,28.4,5,205000,51-75% of geographies,Bottom 25% of geographies,64,20
+zip,19152,,2023,All,15.5,3,215000,26-50% of geographies,Bottom 25% of geographies,45,20
+zip,19140,,2023,All,52.5,4,210000,51-75% of geographies,Bottom 25% of geographies,55,20
+zip,19138,,2023,All,93.0,5,250000,51-75% of geographies,Bottom 25% of geographies,64,22
+zip,19120,,2023,All,47.0,4,324000,51-75% of geographies,26-50% of geographies,55,26
+zip,19139,,2023,All,84.9,4,335000,51-75% of geographies,26-50% of geographies,55,27
+zip,19130,,2023,All,14.4,5,419600,51-75% of geographies,26-50% of geographies,64,30
+zip,19106,,2023,All,6.7,6,428900,51-75% of geographies,26-50% of geographies,70,31
+zip,19144,,2023,All,73.4,5,517000,51-75% of geographies,26-50% of geographies,64,34
+zip,19145,,2023,All,27.8,8,508000,Top 25% of geographies,26-50% of geographies,80,34
+zip,19121,,2023,All,67.9,2,580100,26-50% of geographies,26-50% of geographies,28,36
+zip,19131,,2023,All,80.3,5,800000,51-75% of geographies,26-50% of geographies,64,42
+zip,19122,,2023,All,30.0,5,995000,51-75% of geographies,26-50% of geographies,64,46
+zip,19104,,2023,All,38.2,9,983000,Top 25% of geographies,26-50% of geographies,83,46
+zip,19111,,2023,All,26.0,7,1466500,Top 25% of geographies,51-75% of geographies,76,54
+zip,19133,,2023,All,34.8,9,1554000,Top 25% of geographies,51-75% of geographies,83,56
+zip,19146,,2023,All,31.8,13,1920800,Top 25% of geographies,51-75% of geographies,92,60
+zip,19127,,2023,All,6.6,3,1915400,26-50% of geographies,51-75% of geographies,45,60
+zip,19148,,2023,All,4.1,6,1882500,51-75% of geographies,51-75% of geographies,70,60
+zip,19142,,2023,All,82.2,4,2062000,51-75% of geographies,51-75% of geographies,55,62
+zip,19116,,2023,All,6.2,8,2233300,Top 25% of geographies,51-75% of geographies,80,64
+zip,19125,,2023,All,5.0,13,2255900,Top 25% of geographies,51-75% of geographies,92,64
+zip,19134,,2023,All,15.7,9,2663400,Top 25% of geographies,51-75% of geographies,83,68
+zip,19143,,2023,All,74.6,7,4353000,Top 25% of geographies,Top 25% of geographies,76,80
+zip,19107,,2023,All,13.5,6,5144300,51-75% of geographies,Top 25% of geographies,70,84
+zip,19124,,2023,All,36.3,12,10130000,Top 25% of geographies,Top 25% of geographies,91,96
+zip,19103,,2023,All,5.3,15,2723700,Top 25% of geographies,51-75% of geographies,95,69
+zip,19136,,2023,All,19.9,4,3922400,51-75% of geographies,Top 25% of geographies,55,77
+zip,19132,,2023,All,88.8,4,682000,51-75% of geographies,26-50% of geographies,55,39
+zip,19119,,2023,All,56.6,3,745000,26-50% of geographies,26-50% of geographies,45,41
+zip,19141,,2023,All,86.0,5,1154000,51-75% of geographies,26-50% of geographies,64,49
+zip,19112,,2023,All,,3,2475000,26-50% of geographies,51-75% of geographies,45,66
+zip,19102,,2023,All,3.8,5,2839100,51-75% of geographies,51-75% of geographies,64,70
+zip,19123,,2023,All,24.7,9,3339000,Top 25% of geographies,51-75% of geographies,83,74
+zip,19147,,2023,All,8.8,7,3615600,Top 25% of geographies,Top 25% of geographies,76,75
+zip,19153,,2023,All,78.8,2,5024000,26-50% of geographies,Top 25% of geographies,28,83
+zip,19137,,2023,All,3.0,4,9416000,51-75% of geographies,Top 25% of geographies,55,95
